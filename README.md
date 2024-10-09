@@ -1,5 +1,8 @@
 # Arcade-App-Solana-Radar
 
+![image](https://github.com/user-attachments/assets/30b5fde9-3d06-4df1-832c-6b07db1e3954)
+
+
 ### **About:**
 
 Arcade is a Gaming Super-App where players can discover, play, and compete in a wide variety of casual Web3 games and On-chain tournaments—all on a single platform.  
