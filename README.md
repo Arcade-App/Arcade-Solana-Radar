@@ -20,6 +20,7 @@ Think of it as the "Facebook Gaming moment" for crypto, where communities can no
 ### **Demo Video & Link:**
 
 Demo Link: [https://arcade-web-solana-demo.vercel.app/](https://arcade-web-solana-demo.vercel.app/)
+Demo Video: [https://www.youtube.com/watch?v=fSUmnQs3dd4&feature=youtu.be](https://www.youtube.com/watch?v=fSUmnQs3dd4&feature=youtu.be)
 
 ---
 
