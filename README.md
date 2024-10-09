@@ -9,6 +9,8 @@ Arcade is a Gaming Super-App where players can discover, play, and compete in a 
 
 Think of it as the "Facebook Gaming moment" for crypto, where communities can not only play but also create custom meme games within the app and host on-chain tournaments with crypto token prizes.
 
+App is live on Solana Devnet - [(Solana Contract Address)](https://solscan.io/account/3dVx2mUwQnppaVTkmA9iHnHMHsugrvkqBJLG6pMKKwgh?cluster=devnet).
+
 ---
 
 ### **Table of Content:**
